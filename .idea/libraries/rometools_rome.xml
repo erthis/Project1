@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="rometools.rome" type="repository">
+    <properties maven-id="com.rometools:rome:1.14.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/rome-1.14.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rome-utils-1.14.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jdom2-2.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
